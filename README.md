@@ -1,8 +1,8 @@
 # Rich_blogs of codeforces and stuffs related to competitive programming
 
 ## Codeforces :
-        1. [bitwise and or for competitive](https://codeforces.com/top)
-        2. [far manager for competitive]https://codeforces.com/blog/entry/532 
+        1. https://codeforces.com/top > ( bitwise and or for competitive )
+        2. https://codeforces.com/blog/entry/532 > ( far manager for competitive )
         3. https://codeforces.com/blog/entry/13529 ( algorithm and data structure )
         4. https://codeforces.com/blog/entry/69089 ( beginner talks and help )
         5. https://codeforces.com/blog/entry/62393 ( unordered map )
@@ -15,6 +15,7 @@
        12. https://codeforces.com/blog/entry/3098 ( sorting algorithms )
        13. http://codeforces.com/blog/entry/23054 ( an awesome list for competitive programming )
        14. https://drive.google.com/file/d/1J2x8pIYQ3MXANgvzOgBciWd3d79j_Exa/view ( Road map for codeforces )
+       15.
        
        
 ## Shafayet's planet :
