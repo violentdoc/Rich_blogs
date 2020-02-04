@@ -1,8 +1,8 @@
 # Rich_blogs of codeforces and stuffs related to competitive programming
 
-Codeforces :
-        1. https://codeforces.com/top ( bitwise and or for competitive )
-        2. https://codeforces.com/blog/entry/532 ( far manager for competitive )
+## Codeforces :
+        1. [bitwise and or for competitive](https://codeforces.com/top)
+        2. [far manager for competitive]https://codeforces.com/blog/entry/532 
         3. https://codeforces.com/blog/entry/13529 ( algorithm and data structure )
         4. https://codeforces.com/blog/entry/69089 ( beginner talks and help )
         5. https://codeforces.com/blog/entry/62393 ( unordered map )
@@ -17,7 +17,7 @@ Codeforces :
        14. https://drive.google.com/file/d/1J2x8pIYQ3MXANgvzOgBciWd3d79j_Exa/view ( Road map for codeforces )
        
        
-Shafayet's planet :
+## Shafayet's planet :
         1. http://www.shafaetsplanet.com/?p=1313 ( time complexity or Big O notation )
         2. http://www.shafaetsplanet.com/?p=2279 ( binary search )
         4. http://www.shafaetsplanet.com/?p=2295 ( binary search 2 )
@@ -26,6 +26,6 @@ Shafayet's planet :
         7. 
         
         
-Quora :
+## Quora :
         1. https://www.quora.com/q/threadsiiithyderabad/String-Hashing-for-competitive-programming ( hashing )
         2. 
