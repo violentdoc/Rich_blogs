@@ -15,7 +15,8 @@
        12. https://codeforces.com/blog/entry/3098 ( sorting algorithms )
        13. http://codeforces.com/blog/entry/23054 ( an awesome list for competitive programming )
        14. https://drive.google.com/file/d/1J2x8pIYQ3MXANgvzOgBciWd3d79j_Exa/view ( Road map for codeforces )
-       15.
+       15. https://codeforces.com/blog/entry/59131 ( Online free problem solving coaching )
+       16.
        
        
 ### Shafayet's planet :
