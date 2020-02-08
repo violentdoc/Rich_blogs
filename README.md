@@ -35,4 +35,5 @@
 ### Github :
         1. https://github.com/mostafa-saad/ArabicCompetitiveProgramming ( arabic competitive programming )
         2. https://github.com/esbanarango/Competitive-Programming ( solutions of online judge problems )
-        3. 
+        3. https://github.com/AhmadElsagheer/Competitive-programming-library/tree/master/curriculum ( Competitive-programming-library )
+        4. 
