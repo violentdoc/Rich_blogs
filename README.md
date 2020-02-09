@@ -40,4 +40,4 @@
         
 ### Web :
         1. https://codeforwin.org/2018/05/10-cool-bitwise-operator-hacks-and-tricks.html ( short code tricks using bitwise operation )
-        2. 
+        2. http://marcodiiga.github.io/archive/ ( algorithm explanation )
