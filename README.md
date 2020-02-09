@@ -37,3 +37,7 @@
         2. https://github.com/esbanarango/Competitive-Programming ( solutions of online judge problems )
         3. https://github.com/AhmadElsagheer/Competitive-programming-library/tree/master/curriculum ( Competitive-programming-library )
         4. 
+        
+### Web :
+        1. https://codeforwin.org/2018/05/10-cool-bitwise-operator-hacks-and-tricks.html ( short code tricks using bitwise operation )
+        2. 
