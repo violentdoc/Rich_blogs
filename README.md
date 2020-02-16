@@ -37,6 +37,10 @@
         2. https://github.com/esbanarango/Competitive-Programming ( solutions of online judge problems )
         3. https://github.com/AhmadElsagheer/Competitive-programming-library/tree/master/curriculum ( Competitive-programming-library )
         4. 
+       
+##LightOJ :
+        1. http://lightoj.com/article_show.php?article=1001 ( Sieve of Eratosthenes to generate Primes )
+        2. 
         
 ### Web :
         1. https://codeforwin.org/2018/05/10-cool-bitwise-operator-hacks-and-tricks.html ( short code tricks using bitwise operation )
