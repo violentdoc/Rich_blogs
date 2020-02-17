@@ -46,4 +46,5 @@
         1. https://codeforwin.org/2018/05/10-cool-bitwise-operator-hacks-and-tricks.html ( short code tricks using bitwise operation )
         2. http://marcodiiga.github.io/archive/ ( algorithm explanation )
         3. http://programming-jinnatul.blogspot.com/2018/09/blog-post.html ( all the bangla blog resources links )
-        4.
+        4. http://nayeemmollickjoy.blogspot.com/2017/07/11879-multiple-of-17-uva-solution-logic.html (string division )
+        5.
