@@ -16,7 +16,8 @@
        13. http://codeforces.com/blog/entry/23054 ( an awesome list for competitive programming )
        14. https://drive.google.com/file/d/1J2x8pIYQ3MXANgvzOgBciWd3d79j_Exa/view ( Road map for codeforces )
        15. https://codeforces.com/blog/entry/59131 ( Online free problem solving coaching )
-       16.
+       16. https://codeforces.com/blog/entry/62730 ( how to read problem statement )
+       17. 
        
        
 ### Shafayet's planet :
