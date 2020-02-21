@@ -17,8 +17,8 @@
        14. https://drive.google.com/file/d/1J2x8pIYQ3MXANgvzOgBciWd3d79j_Exa/view ( Road map for codeforces )
        15. https://codeforces.com/blog/entry/59131 ( Online free problem solving coaching )
        16. https://codeforces.com/blog/entry/62730 ( how to read problem statement )
-       17. 
-       
+       17. https://codeforces.com/blog/entry/66909 ( [Tutorial] A way to Practice Competitive Programming : From Rating 1000 to 2400+ )
+       18.
        
 ### Shafayet's planet :
         1. http://www.shafaetsplanet.com/?p=1313 ( time complexity or Big O notation )
