@@ -50,3 +50,7 @@
         4. http://nayeemmollickjoy.blogspot.com/2017/07/11879-multiple-of-17-uva-solution-logic.html (string division )
         5. http://light-online-judge.blogspot.com/2012/04/hints-for-lightoj-beginners-1008-1225.html ( lightOJ beginner problem hints )
         6. 
+        
+### Geeks
+        1. https://www.geeksforgeeks.org/tag/xor/ ( XOR stuff )
+        2. 
