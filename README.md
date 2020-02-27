@@ -39,7 +39,8 @@
         2. https://github.com/esbanarango/Competitive-Programming ( solutions of online judge problems )
         3. https://github.com/AhmadElsagheer/Competitive-programming-library/tree/master/curriculum ( Competitive-programming-library )
         4. https://github.com/cpeditor/cp-editor ( cp editor for codeforces and all)
-        5.
+        5. https://github.com/rossant/awesome-math ( search for math resources from here )
+        6. 
        
 ### LightOJ :
         1. http://lightoj.com/article_show.php?article=1001 ( Sieve of Eratosthenes to generate Primes )
