@@ -51,7 +51,8 @@
         3. http://programming-jinnatul.blogspot.com/2018/09/blog-post.html ( all the bangla blog resources links )
         4. http://nayeemmollickjoy.blogspot.com/2017/07/11879-multiple-of-17-uva-solution-logic.html (string division )
         5. http://light-online-judge.blogspot.com/2012/04/hints-for-lightoj-beginners-1008-1225.html ( lightOJ beginner problem hints )
-        6. 
+        6. https://www.khanacademy.org/math ( math from zero to hero )
+        7. 
         
 ### Geeks
         1. https://www.geeksforgeeks.org/tag/xor/ ( XOR stuff )
